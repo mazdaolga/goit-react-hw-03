@@ -1,0 +1,11 @@
+.contactWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-right: 10px;
+  }
+  .contactTextWrapper {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
